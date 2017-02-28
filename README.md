@@ -20,6 +20,7 @@ vim KoaApp/dao/entityManager.js
 ```
 ### run website
 ```
+cd KoaApp
 node start.js
 ```
 ### frontend url 
