@@ -25,5 +25,5 @@ node start.js
 ```
 ### frontend url 
     http://localhost:3000/
-### backend url 
+### backend url (username: koa  password: 12345)
   http://localhost:3000/p/admin.html
