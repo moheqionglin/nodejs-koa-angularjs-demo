@@ -12,11 +12,11 @@ npm install
 ```
 ### create database、 table and load data into database
 ```
-cd KoaApp/view/sql
+cat KoaApp/view/sql/sql.sql
 ```
 ### modify mysql connection config(new Sequelize('shop', 'root', null) , shop is database name)
 ```
-vim dao/entityManager.js
+vim KoaApp/dao/entityManager.js
 ```
 ### run website
 ```
